@@ -1,0 +1,36 @@
+C:\Users\eduar_iiuc0pf\OneDrive\Área de Trabalho\Pasta arq duda\Solução Empresarial\techR\obj\Debug\GraveYard.csprojAssemblyReference.cache
+C:\Users\eduar_iiuc0pf\OneDrive\Área de Trabalho\Pasta arq duda\Solução Empresarial\techR\obj\Debug\techR.frFinado.resources
+C:\Users\eduar_iiuc0pf\OneDrive\Área de Trabalho\Pasta arq duda\Solução Empresarial\techR\obj\Debug\techR.telaLogin.resources
+C:\Users\eduar_iiuc0pf\OneDrive\Área de Trabalho\Pasta arq duda\Solução Empresarial\techR\obj\Debug\techR.frTelaprinc.resources
+C:\Users\eduar_iiuc0pf\OneDrive\Área de Trabalho\Pasta arq duda\Solução Empresarial\techR\obj\Debug\GraveYard.csproj.GenerateResource.cache
+C:\Users\eduar_iiuc0pf\OneDrive\Área de Trabalho\Pasta arq duda\Solução Empresarial\techR\obj\Debug\techR.exe
+C:\Users\eduar_iiuc0pf\OneDrive\Área de Trabalho\Pasta arq duda\Solução Empresarial\techR\obj\Debug\techR.pdb
+C:\Users\eduar_iiuc0pf\OneDrive\Área de Trabalho\Pasta arq duda\Solução Empresarial\techR\bin\Debug\techR.exe.config
+C:\Users\eduar_iiuc0pf\OneDrive\Área de Trabalho\Pasta arq duda\Solução Empresarial\techR\bin\Debug\techR.exe
+C:\Users\eduar_iiuc0pf\OneDrive\Área de Trabalho\Pasta arq duda\Solução Empresarial\techR\bin\Debug\techR.pdb
+C:\Users\eduar_iiuc0pf\OneDrive\Área de Trabalho\Pasta arq duda\Solução Empresarial\techR\obj\Debug\techR.Properties.Resources.resources
+C:\Users\eduar_iiuc0pf\OneDrive\Área de Trabalho\Pasta arq duda\Solução Empresarial\techR\obj\Debug\GraveYard.csproj.CoreCompileInputs.cache
+C:\Users\eduar_iiuc0pf\OneDrive\Área de Trabalho\Pasta arq duda\Projeto Desenvolvimento de Software\techR\bin\Debug\techR.exe.config
+C:\Users\eduar_iiuc0pf\OneDrive\Área de Trabalho\Pasta arq duda\Projeto Desenvolvimento de Software\techR\bin\Debug\techR.exe
+C:\Users\eduar_iiuc0pf\OneDrive\Área de Trabalho\Pasta arq duda\Projeto Desenvolvimento de Software\techR\bin\Debug\techR.pdb
+C:\Users\eduar_iiuc0pf\OneDrive\Área de Trabalho\Pasta arq duda\Projeto Desenvolvimento de Software\techR\obj\Debug\GraveYard.csprojAssemblyReference.cache
+C:\Users\eduar_iiuc0pf\OneDrive\Área de Trabalho\Pasta arq duda\Projeto Desenvolvimento de Software\techR\obj\Debug\techR.frFinado.resources
+C:\Users\eduar_iiuc0pf\OneDrive\Área de Trabalho\Pasta arq duda\Projeto Desenvolvimento de Software\techR\obj\Debug\techR.telaLogin.resources
+C:\Users\eduar_iiuc0pf\OneDrive\Área de Trabalho\Pasta arq duda\Projeto Desenvolvimento de Software\techR\obj\Debug\techR.Properties.Resources.resources
+C:\Users\eduar_iiuc0pf\OneDrive\Área de Trabalho\Pasta arq duda\Projeto Desenvolvimento de Software\techR\obj\Debug\techR.frTelaprinc.resources
+C:\Users\eduar_iiuc0pf\OneDrive\Área de Trabalho\Pasta arq duda\Projeto Desenvolvimento de Software\techR\obj\Debug\GraveYard.csproj.GenerateResource.cache
+C:\Users\eduar_iiuc0pf\OneDrive\Área de Trabalho\Pasta arq duda\Projeto Desenvolvimento de Software\techR\obj\Debug\GraveYard.csproj.CoreCompileInputs.cache
+C:\Users\eduar_iiuc0pf\OneDrive\Área de Trabalho\Pasta arq duda\Projeto Desenvolvimento de Software\techR\obj\Debug\techR.exe
+C:\Users\eduar_iiuc0pf\OneDrive\Área de Trabalho\Pasta arq duda\Projeto Desenvolvimento de Software\techR\obj\Debug\techR.pdb
+D:\vitor\Documentos\INFERNO\Desenvolvimento de SW ETEP\Projeto Desenvolvimento de Software\techR\bin\Debug\techR.exe.config
+D:\vitor\Documentos\INFERNO\Desenvolvimento de SW ETEP\Projeto Desenvolvimento de Software\techR\bin\Debug\techR.exe
+D:\vitor\Documentos\INFERNO\Desenvolvimento de SW ETEP\Projeto Desenvolvimento de Software\techR\bin\Debug\techR.pdb
+D:\vitor\Documentos\INFERNO\Desenvolvimento de SW ETEP\Projeto Desenvolvimento de Software\techR\obj\Debug\GraveYard.csprojAssemblyReference.cache
+D:\vitor\Documentos\INFERNO\Desenvolvimento de SW ETEP\Projeto Desenvolvimento de Software\techR\obj\Debug\techR.frFinado.resources
+D:\vitor\Documentos\INFERNO\Desenvolvimento de SW ETEP\Projeto Desenvolvimento de Software\techR\obj\Debug\techR.telaLogin.resources
+D:\vitor\Documentos\INFERNO\Desenvolvimento de SW ETEP\Projeto Desenvolvimento de Software\techR\obj\Debug\techR.Properties.Resources.resources
+D:\vitor\Documentos\INFERNO\Desenvolvimento de SW ETEP\Projeto Desenvolvimento de Software\techR\obj\Debug\techR.frTelaprinc.resources
+D:\vitor\Documentos\INFERNO\Desenvolvimento de SW ETEP\Projeto Desenvolvimento de Software\techR\obj\Debug\GraveYard.csproj.GenerateResource.cache
+D:\vitor\Documentos\INFERNO\Desenvolvimento de SW ETEP\Projeto Desenvolvimento de Software\techR\obj\Debug\GraveYard.csproj.CoreCompileInputs.cache
+D:\vitor\Documentos\INFERNO\Desenvolvimento de SW ETEP\Projeto Desenvolvimento de Software\techR\obj\Debug\techR.exe
+D:\vitor\Documentos\INFERNO\Desenvolvimento de SW ETEP\Projeto Desenvolvimento de Software\techR\obj\Debug\techR.pdb
